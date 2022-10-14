@@ -1,8 +1,10 @@
 # NOTICE
 
-This repo is restored.
+This repo is restored.  
 I've deleted it from github, which broke InVisionApp/go-health:
 https://github.com/InVisionApp/go-health/issues/79
+
+I'm sorry for this!
 
 # Wrapper with mocks for MongoDB and BoltDB
 
